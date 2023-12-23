@@ -1,1 +1,4 @@
 What is Function Calling in Langchain?
+Function Calling is an important aspect of Langchain,it majorly includes the agent program and the produces the output in chained structured.Here basicall all the information regarding the 
+particular concept is added under once place..which can be multiple times as and when required.
+Function calling also enables us to extract structured data fromtext, convert natural language into api calls, helps us build assistant bots to answer our queries by providing external api calls.
