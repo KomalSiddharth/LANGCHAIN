@@ -16,5 +16,4 @@ here's the error what i m  getting,
 RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
 
-It would be really grateful if somebody could help .
-Thanking in advance
+well finally i got the solution,these ratelimit error occurs just becoz of the token limit provided by the clous services.So if these error arises then u can simply buy credit points to acceess the services provided by openAI or else if u dont want to invest any amount then u can simply create another account and u can simply get 5$ credits so that u can temporily access OpenAI services.
