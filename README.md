@@ -1,5 +1,7 @@
-# LANGCHAIN_ERROR
+# LET'S LEARN LANGCHAIN TOGETHER
 This is repository is all about what all errors i faced when i started working with llm models throughtout my learning journey.
+Here my main aim is to learn and grow together.Hope everyone who visits here will get to know some insights of langchain in simple way.
+Fell free to contribute here with your amazing ideas and knowledge.
 
 Well I'm a beginner who have just dived into the vast ocean of knowledge related to various new Technologies.
 Hustling everyday to learn something new.
